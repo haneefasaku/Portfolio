@@ -1,0 +1,31 @@
+.navbar {
+    font-size: 16px;
+    top: 0;
+    left: 0;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.prv {
+    text-decoration: none;
+    color: black;
+}
+
+.prv:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.ctm {
+    text-decoration: none;
+    color: grey;
+}
+
+.ctm:hover {
+    text-decoration: none;
+    color: #fff;
+}
